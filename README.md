@@ -28,6 +28,6 @@ More Projects →
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" /> </p>
 🤝 Connect with Me
-LinkedIn: linkedin.com/in/godwinodongo
+LinkedIn: linkedin.com/in/godwin-odongo/
 
 Email: odongogodwin001@gmail.com
